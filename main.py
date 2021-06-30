@@ -8,7 +8,9 @@ while analyse:
 	3. Wizard of Oz
 	4. Jekyll & Hyde
 	5. Harry Potter and the Philosopher's Stone
-	6. Lord of the Rings: Fellowship of the Ring""")
+	6. Lord of the Rings: Fellowship of the Ring
+	7. A Song of Ice and Fire: A Game of Thrones 
+	""")
 	book = input()
 	while not valid_book:
 		if book == "1":
